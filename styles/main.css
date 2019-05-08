@@ -4,10 +4,13 @@
 }
 body{
     background: #ECF0F1;
+
+        overflow-x:hidden;
+
 }
 header{
     margin:0;
-    width: 1312px;
+    width: 1355px;
     margin-top: 5px;
     height: 120px;
     background: #2C3E50;
@@ -53,7 +56,7 @@ header nav ul li a:hover{
     color:#1ABC9C;
 }
 header .icons{
-    padding-right: 70px;
+    padding-right: 109px;
     margin-top: 11px;
     float:right;
 }
@@ -63,7 +66,7 @@ header .icons img{
 }
 
 .slider{
-    width: 1312px;
+    width: 1355px;
     
     height: 780px;
     background: #2C3E50;
@@ -185,7 +188,7 @@ header .icons img{
 
 }
 .products{
-    width: 1312px;
+    width: 1355px;
     background: #ECF0F1;
     border-bottom: 1px solid #E6E6E6;
 
@@ -212,7 +215,7 @@ header .icons img{
     color:#FFF;
 }
 .products header .arrows{
-    margin-right: 71px;
+    margin-right: 114px;
     margin-top: -32px;
 }
 .products header h3 span{
@@ -717,7 +720,7 @@ header .icons img{
     color: #FFF;
 }
 .stunning{
-    width: 1312px;
+    width: 1355px;
     margin-top: 102px;
     height:673px;
     background-image: url(../img/Background.png);
@@ -741,7 +744,7 @@ header .icons img{
     line-height:20px;
     color:#FFF;
     padding-top: 97px;
-    padding-left: 305px;
+    padding-left: 265px;
 
 }
 .stunning .text p{
@@ -817,13 +820,13 @@ header .icons img{
 
 }
 .why{
-    width: 1313px;
+    width: 1355px;
 
 }
 .why .container{
     display: flex;
     flex-direction: row;
-    width: 1313px;
+    width: 1355px;
 }
 .why .container .item h3 span{
     font-family: 'Lato Black';
@@ -964,7 +967,7 @@ header .icons img{
     margin-top: 14px;
 }
 .statistic{
-    width: 1313px;
+    width: 1355px;
     height: 300px;
     background: #34495E;
     margin-top: 96px;
@@ -988,7 +991,7 @@ header .icons img{
 .statistic .customers {
     margin-left: 208px;
     padding-top: 4px;
-    width: 1313px;
+    width: 1355px;
 }
 .statistic .customers span{
     font-family: 'Lato';
@@ -1002,7 +1005,7 @@ header .icons img{
 .sticky .container-sticky{
     display:flex;
     flex-direction: row;
-    width: 1313px;
+    width: 1355px;
     margin-left: 71px;
     margin-top: 93px;
 }
@@ -1071,7 +1074,7 @@ header .icons img{
 }
 
 .colors{
-    width: 1313px;
+    width: 1355px;
     height: 366px;
 
 }
@@ -1128,7 +1131,7 @@ header .icons img{
     background: #E36968;
 }
 .logos{
-    width: 1313px;
+    width: 1355px;
     height: 132px;
 }
 .logos .images{
@@ -1140,7 +1143,7 @@ header .icons img{
     padding-right: 78px;
 }
 .promo{
-    width: 1313px;
+    width: 1355px;
     height: 100px;
     background: #1ABC9C;
 
@@ -1155,7 +1158,7 @@ header .icons img{
     padding-left: 143px;
 }
 .about-us{
-    width: 1313px;
+    width: 1355px;
     height: 710px;
     background: #222533;
 }
@@ -1188,7 +1191,7 @@ header .icons img{
 
 }
 .footer{
-    width: 1313px;
+    width: 1355px;
     height: 84px;
     background: #1A1C27;
     color:#A1B1BC;
@@ -1206,7 +1209,7 @@ header .icons img{
     color:#1ABC9C;
 }
 .footer .links{
-    margin-right: 49px;
+    margin-right: 93px;
     margin-top: -19px;
 }
 .footer .links li a{
