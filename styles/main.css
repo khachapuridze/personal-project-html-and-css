@@ -7,8 +7,8 @@ body{
 }
 header{
     margin:0;
-    width: 1920px;
-    margin-top: 7px;
+    width: 1312px;
+    margin-top: 5px;
     height: 120px;
     background: #2C3E50;
 
@@ -16,12 +16,12 @@ header{
 
 header .logo{
     padding-top: 25px;
-    margin-left: 373px;
+    margin-left: 70px;
     float: left;
     
 }
 header nav{
-    margin-left: 676px;
+    margin-left: 375px;
     padding-top: 34px;
 }
 header nav ul li{
@@ -53,7 +53,7 @@ header nav ul li a:hover{
     color:#1ABC9C;
 }
 header .icons{
-    margin-right: 370px;
+    padding-right: 70px;
     margin-top: 11px;
     float:right;
 }
@@ -63,7 +63,7 @@ header .icons img{
 }
 
 .slider{
-    width: 1920px;
+    width: 1312px;
     
     height: 780px;
     background: #2C3E50;
@@ -76,7 +76,6 @@ header .icons img{
     background: #2C3E50;
     text-align: center;
     color: #FFF;
-    margin-left: 71px;
     margin-top: 306px;
     border-radius: 2px;
     border: 1px solid #FFF;
@@ -102,13 +101,13 @@ header .icons img{
     border: 1px solid #FFF;
     text-align: center;
     color: #FFF;
-    margin-right: 71px;
+    margin-right: 11px;
     margin-top: 306px;
     border-radius: 2px;
     padding-top: 14px;
 }
 .slider .mockup {
-    margin-left: 216px;
+    margin-left: -14px;
     width: 531px;
     float:left;
 }
@@ -116,8 +115,8 @@ header .icons img{
     float: left;
     width: 567px;
     height: 530px;
-    margin-top: 95px;
-    margin-left: 108px;
+    margin-top: 96px;
+    margin-left: 104px;
 }
 
 .slider .right-container h3{
@@ -126,7 +125,6 @@ header .icons img{
     line-height: 60px;
     font-weight: 300;
     color:#FFF;
-    word-spacing: -1px;
 
 }
 .slider .right-container h4{
@@ -150,7 +148,7 @@ header .icons img{
     width: 47px;
     height: 49px;
     border-radius: 10px;
-    margin-right: 157px;
+    margin-right: 152px;
     margin-top: -39px;
     padding-left: 15px;
     padding-top: 10px;
@@ -175,7 +173,7 @@ header .icons img{
     font-size: 18px;
     line-height: 19px;
     margin-top: 45px;
-    margin-right: 8px;
+    margin-right: 12px;
 }
 .slider .right-container .more{
     background: #1D2C3B;
@@ -187,7 +185,7 @@ header .icons img{
 
 }
 .products{
-    width: 1920px;
+    width: 1312px;
     background: #ECF0F1;
     border-bottom: 1px solid #E6E6E6;
 
@@ -206,7 +204,6 @@ header .icons img{
     border-radius: 13px;
     text-align: center;
     margin-left: 8px;
-    padding-top: 2px;
 
 }
 .products header .arrows i:hover{
@@ -215,7 +212,7 @@ header .icons img{
     color:#FFF;
 }
 .products header .arrows{
-    margin-right: 376px;
+    margin-right: 71px;
     margin-top: -32px;
 }
 .products header h3 span{
@@ -232,8 +229,8 @@ header .icons img{
     font-weight: 300;
     font-size:36px;
     line-height: 33px;
-    margin-top: 95px;
-    margin-left: 372px;
+    margin-top: 96px;
+    margin-left: 68px;
     color:#34495E;
 
 }
@@ -242,21 +239,21 @@ header .icons img{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 1547px;
+    width: 1245px;
     padding-bottom: 96px;
 }
 .items .item-1:first-child{
-    margin-left: 376px;
+    margin-left: 71px;
 }
 .items .item-1{
     width: 273px;
-    height: 562px;
+    height: 557px;
     background: #FFF;
     margin-top: -37px;
     border-radius: 8px;
 }
 .items .item-1 .poster{
-    height: 368px;
+    height: 365px;
 }
 
 .items .col:hover .details{
@@ -298,25 +295,25 @@ header .icons img{
 }
 
 
-.items .item-1  .details{
+.items .item-1 .details{
     border: 1px solid #E6E6E6;
-    padding-left: 20px;
+    padding-left: 21px;
     margin-top: -1px;
 }
-.items .item-1  .details h3{
+.items .item-1 .details h3{
     font-family: 'Lato';
     font-weight: 700;
     font-size: 18px;
     line-height: 33px;
     color:#2C3E50;
-    padding-top: 9px;
+    padding-top: 13px;
     
 }
 .items .item-1  .details .stars{
     color: #1ABC9C;
     font-size: 15px;
     line-height: 33px;
-    margin-top: 2px;
+    margin-top: 1px;
    
     letter-spacing: -4px;
 }
@@ -336,8 +333,8 @@ header .icons img{
 }
 .items .item-1 .action{
     border: 1px solid #E6E6E6;
-    height: 71px;
-    border-radius: 4px;
+    height: 65px;
+    border-radius: 7px;
 }
 .items .item-1 .action button{
     border: none;
@@ -351,18 +348,19 @@ header .icons img{
     font-size: 13px;
     line-height: 33px;
     /* padding-top: 18px; */
-    margin-top: 17px;
-    margin-left: 19px;
-    padding-right: 5px;
- 
+    margin-top: 16px;
+    margin-left: 16px;
+    padding-left: 10px;
+    padding-bottom: 29px;
+
 }
 .brilliant{
-    width: 1520px;
+    width: 1167px;
     margin-top: 103px;
-    margin-left: 374px;
+    margin-left: 73px;
     border: 1px solid #DFE8EA;
     border-radius: 7px;
-    height: 136px;
+    height: 141px;
     background: #FFF;
 }
 .brilliant i{
@@ -382,7 +380,7 @@ header .icons img{
 }
 .brilliant .text{
     margin-left: 170px;
-    margin-top: 24px;
+    margin-top: 26.5px;
 }
 .brilliant .text h3{
     font-family: 'Lato';
@@ -390,7 +388,7 @@ header .icons img{
     font-size: 24px;
     line-height: 33px;
     color:#34495E;
-    word-spacing: 2px;
+    word-spacing: 1px;
 
 }
 .brilliant .text p{
@@ -405,7 +403,7 @@ header .icons img{
 
 .brilliant button{
     float: right;
-    margin-right: 393px;
+    margin-right: 42px;
     margin-top: -76px;
     background-color:#1D2C3B;
     font-size:15px;
@@ -424,16 +422,15 @@ header .icons img{
     grid-template-rows: 600px 455px;
     grid-template-columns: repeat(3,383px);
     grid-gap: 10px;
-    margin-left: 375px;
-    margin-top: 51px;
+    margin-left: 71px;
+    margin-top: 49px;
 
 }
 .hero .col-1{
     background: #CCCCCC;
     grid-column: 1/4;
-    padding-left: 300px;
     padding-left: 784px;
-    padding-top: 261px;
+    padding-top: 265px;
 }
 .hero .col-1 h3{
     font-family: 'Lato Light';
@@ -463,8 +460,9 @@ header .icons img{
     line-height: 36px;
     color: #2C3E50;
     width: 257px;
-    margin-top: 42px;
+    margin-top: 39px;
     word-spacing: 1px;
+    margin-left: 1px;
 }
 
 .hero .col-1 button{
@@ -475,7 +473,7 @@ header .icons img{
     color: #FFF;
     width:150px ;
     height:50px ;
-    margin-top: 20px;
+    margin-top: 21px;
     margin-left: 3px;
     border: none;
     
@@ -487,8 +485,8 @@ header .icons img{
 
 .hero .col .text{
     background: #ECF0F1;
-    height: 203px;
-    padding-left: 30px;
+    height: 204px;
+    padding-left: 32px;
     width: 352px;
 }
 .hero .col .text h3{
@@ -497,7 +495,7 @@ header .icons img{
     font-size: 18px;
     line-height: 24px;
     color: #2C3E50;
-    padding-top: 24px;
+    padding-top: 26px;
 
 }
 .hero .col .text p{
@@ -505,14 +503,14 @@ header .icons img{
     font-size: 14px;
     line-height: 24px;
     color: #A1B1BC;
-    margin-top: 10px;
+    margin-top: 8px;
     width: 310px;
 }
 .hero .col .more{
     width: 383px;
     height: 38px;
     background: #1ABC9C;
-    padding-top: 11px;
+    padding-top: 14px;
     
 }
 .hero .col .more a{
@@ -555,7 +553,7 @@ header .icons img{
     grid-template-columns: repeat(4,270px);
     grid-template-rows: repeat(2,562px);
     grid-gap: 30px;
-    margin-left: 372px;
+    margin-left: 71px;
     width: 1172px;
 }
 .recent .recent-items .poster .min-header{
@@ -569,13 +567,16 @@ header .icons img{
 }
 .recent .recent-items .poster .min-header i{
     float: right;
-    margin-top: -20px;
-    margin-right: 15px;
+    margin-top: -23px;
+    margin-right: 24px;
+    font-size: 19px;
 }
 .recent .recent-items .poster .min-header-2 i{
     float: right;
     margin-top: -20px;
     margin-right: 15px;
+    font-size: 15px;
+    margin-right: 27px;
 }
 .recent .recent-items .poster .min-header p{
     font-family: 'Lato';
@@ -583,11 +584,11 @@ header .icons img{
     margin-left: 15px;
     line-height: 33px;
     padding-top: 6px;
-    padding-left: 7px;
+    padding-left: 6px;
 }
 .recent .recent-items .min-header-2{
-    height: 50px;
-    width:273px;
+    height: 48px;
+    width:271px;
     font-size:15px;
     border-radius: 6px;
     color:#FFF;
@@ -600,7 +601,7 @@ header .icons img{
     line-height: 33px;
     margin-left: 15px;
     padding-top: 6px;
-    padding-left: 7px;
+    padding-left: 3px;
 }
 .recent .recent-items .item-1{
     margin-left: 0;
@@ -610,6 +611,7 @@ header .icons img{
     background: #21C2F8;
     color: #FFF;
     width: 90px;
+    height: 29px;
     border-radius: 5px;
     margin-top: -45px;
     margin-right: 65px;
@@ -638,13 +640,17 @@ header .icons img{
     grid-template-columns: repeat(2,570px);
     grid-template-rows: repeat(2,193px);
     grid-gap: 30px;
-    margin-left: 372px;
+    margin-left: 71px;
     width: 1172px;
 }
 .news .articles .article-1{
     width: 570px;
     height: 193px;
     border: 1px solid #CDD9E1;
+}
+.news .articles .article-1:last-child p{
+    margin-top: 8px;
+
 }
 .news header{
     height: 82px;
@@ -655,7 +661,7 @@ header .icons img{
     font-size:36px;
     line-height: 33px;
     margin-top: 57px;
-    margin-left: 372px;
+    margin-left: 71px;
     color:#34495E;
 
 }
@@ -711,13 +717,15 @@ header .icons img{
     color: #FFF;
 }
 .stunning{
-    width: 1920px;
+    width: 1312px;
     margin-top: 102px;
     height:673px;
     background-image: url(../img/Background.png);
+    background-position: -303px;
 }
 .stunning .text {
     text-align:center;
+    margin-left: -303px;
     
 }
 .stunning .text h1 span{
@@ -732,7 +740,9 @@ header .icons img{
     font-size:30px;
     line-height:20px;
     color:#FFF;
-    padding-top: 98px;
+    padding-top: 97px;
+    padding-left: 305px;
+
 }
 .stunning .text p{
     font-family: 'Lato';
@@ -744,7 +754,7 @@ header .icons img{
     margin-top: 17px;
 }
 .stunning .buttons{
-    margin-left: 784px;
+    margin-left: 481px;
     margin-top: 16px;
 
 }
@@ -772,6 +782,7 @@ header .icons img{
     color: #FFF;
     background:#21C2F8;
     border: none;
+    margin-left: -2px;
 }
 .stunning .arrows i{
     color:#FFF;
@@ -806,13 +817,13 @@ header .icons img{
 
 }
 .why{
-    width: 1920px;
+    width: 1313px;
 
 }
 .why .container{
     display: flex;
     flex-direction: row;
-    width: 1700px;
+    width: 1313px;
 }
 .why .container .item h3 span{
     font-family: 'Lato Black';
@@ -835,10 +846,12 @@ header .icons img{
 
 
  .container .item {
-    margin-left: 373px;
+    margin-left: 71px;
     margin-top: 95px;
-    margin-right: -345px;
+
+    margin-right: -45px;
 }
+
 .why .container .item .solution {
     width: 570px;
     background: #FFF;
@@ -951,16 +964,16 @@ header .icons img{
     margin-top: 14px;
 }
 .statistic{
-    width: 1920px;
+    width: 1313px;
     height: 300px;
     background: #34495E;
     margin-top: 96px;
 
 }
 .statistic .digits{
-    margin-left: 416px;
+    margin-left: 112px;
     padding-top: 115px;
-    padding-right: 46px;
+
 }
 .statistic .digits span{
     font-family: 'Lato';
@@ -973,8 +986,9 @@ header .icons img{
     letter-spacing: 3px;
 }
 .statistic .customers {
-    margin-left: 512px;
+    margin-left: 208px;
     padding-top: 4px;
+    width: 1313px;
 }
 .statistic .customers span{
     font-family: 'Lato';
@@ -988,15 +1002,15 @@ header .icons img{
 .sticky .container-sticky{
     display:flex;
     flex-direction: row;
-    width: 1700px;
-    margin-left: 375px;
+    width: 1313px;
+    margin-left: 71px;
     margin-top: 93px;
 }
 .sticky .container-sticky .items{
     display:flex;
     flex-direction: column;
     width: 265px;
-    margin-right: 33px;
+    margin-right: 36px;
     height: 240px;
     
 }
@@ -1034,7 +1048,7 @@ header .icons img{
     height: 56px;
     background: #EAEAEA;
     border: 1px solid #EAEAEA;
-    margin-left: 376px;
+    margin-left: 71px;
     margin-top: 25px;
 
     
@@ -1057,7 +1071,7 @@ header .icons img{
 }
 
 .colors{
-    width: 1920px;
+    width: 1313px;
     height: 366px;
 
 }
@@ -1070,9 +1084,9 @@ header .icons img{
 .colors .color-container .col-item{
     display: flex;
     flex-direction: column;
-    width: 640px;
+    width: 468px;
     height: 360px;
-    padding-left: 80px;
+    padding-left: 71px;
 
 }
 .colors .color-container .col-item h3{
@@ -1092,7 +1106,7 @@ header .icons img{
     line-height: 24px;
     color: #FFF;
     margin-top: 9px;
-    width: 480px;
+    width: 365px;
 }
 .colors .color-container .col-item button{
     font-family: 'Lato Black';
@@ -1114,19 +1128,19 @@ header .icons img{
     background: #E36968;
 }
 .logos{
-    width: 1920px;
+    width: 1313px;
     height: 132px;
 }
 .logos .images{
-    margin-left: 397px;
-    margin-top: 8px;
+    margin-left: 95px;
+    margin-top: 7px;
 }
 .logos .images img{
     display: inline-block;
     padding-right: 78px;
 }
 .promo{
-    width: 1920px;
+    width: 1313px;
     height: 100px;
     background: #1ABC9C;
 
@@ -1138,17 +1152,17 @@ header .icons img{
     line-height: 20px;
     color:#FFF;
     padding-top: 37px;
-    padding-left: 444px;
+    padding-left: 143px;
 }
 .about-us{
-    width: 1920px;
+    width: 1313px;
     height: 710px;
     background: #222533;
 }
 .about-us .text{
     width: 270px;
     height: 351px;
-    margin-left: 371px;
+    margin-left: 71px;
     padding-top: 69px;
 
 }
@@ -1174,7 +1188,7 @@ header .icons img{
 
 }
 .footer{
-    width: 1920px;
+    width: 1313px;
     height: 84px;
     background: #1A1C27;
     color:#A1B1BC;
@@ -1186,13 +1200,13 @@ header .icons img{
 
 }
 .footer .copy p{
-    padding-left: 371px;
+    padding-left:71px;
 }
 .footer .copy span{
     color:#1ABC9C;
 }
 .footer .links{
-    margin-right: 356px;
+    margin-right: 49px;
     margin-top: -19px;
 }
 .footer .links li a{
@@ -1207,6 +1221,6 @@ header .icons img{
 }
 .footer .links li{
     display: inline-block;
-    float: right;
+    float:right;
     padding-right: 28px;
 }
