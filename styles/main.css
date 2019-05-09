@@ -864,7 +864,8 @@ display: inline-block;
 
 .news {
     background:#ECF0F1;
-    
+    padding-top:96px;
+    padding-bottom:71px;
    
 }
 .wrap-news{
@@ -874,7 +875,10 @@ display: inline-block;
 .news h2 {
     font-family: 'Lato';
     font-weight: 300;
-    
+    font-size:36px;
+    line-height: 33px;
+    color:#34495E;
+    margin-bottom: 47px;
 }
 .news h2 span {
     font-family: 'Lato';
@@ -1236,9 +1240,7 @@ display: inline-block;
     font-family: 'Lato';
     font-weight: 700;
     color: #1ABC9C;
-    position: relative;
-    left: -2px;
-    top: 1px;
+    
 
 }
 
@@ -1251,9 +1253,7 @@ display: inline-block;
 }
 .service-row-image {
     width: 80px;
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 15px;
+    
 } 
 
 .service-row-text {
