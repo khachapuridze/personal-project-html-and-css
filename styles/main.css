@@ -1240,7 +1240,9 @@ display: inline-block;
     font-family: 'Lato';
     font-weight: 700;
     color: #1ABC9C;
-    
+    position: relative;
+    left: -2px;
+    top: 1px;
 
 }
 
@@ -1253,7 +1255,9 @@ display: inline-block;
 }
 .service-row-image {
     width: 80px;
-    
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
 } 
 
 .service-row-text {
@@ -1463,6 +1467,9 @@ display: inline-block;
     background: url('../images/checkbox.png') no-repeat;
     background-position: 2px 21px;
 }
+.checkboxes > div ul li:last-child:after {
+    display: none;
+}
 .checkboxes > div ul li:after {
     content: '';
     width:100%;
@@ -1473,9 +1480,7 @@ display: inline-block;
     bottom:-6px;
     left:0;
 }
-.checkboxes > div ul li:last-child:after {
-    display: none;
-}
+
 .check-form {
     margin-top: 42px;
     margin-left: 2px;
@@ -1511,6 +1516,16 @@ display: inline-block;
     padding-left: 71px;
 
 }
+.colors .color-container .col-item button{
+    font-family: 'Lato Black';
+    font-size: 15px;
+    line-height: 19px;
+    color:#FFF;
+    width: 170px;
+    height: 50px;
+    border: 2px solid #FFF;
+    margin-top: 25px;
+}
 .colors .color-container .col-item h3{
     font-family: 'Lato Black';
     font-size: 15px;
@@ -1530,16 +1545,7 @@ display: inline-block;
     margin-top: 9px;
     width: 365px;
 }
-.colors .color-container .col-item button{
-    font-family: 'Lato Black';
-    font-size: 15px;
-    line-height: 19px;
-    color:#FFF;
-    width: 170px;
-    height: 50px;
-    border: 2px solid #FFF;
-    margin-top: 25px;
-}
+
 .colors .color-container #color-1{
     background: #4E459A;
 }
